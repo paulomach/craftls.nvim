@@ -1,9 +1,13 @@
 # craft-ls nvim plugin
 
-What say's in the tin.
+What it says on the tin.
 Check [craft-ls](https://github.com/Batalex/craft-ls) for more information.
 
 ## Usage
+
+With craft-ls installed and in PATH, use the following configuration to enable it in your neovim setup on:
+
+### Lazyvim
 
 ```lua
 return {
@@ -18,8 +22,4 @@ return {
     end,
   },
 }
-```
-
-```
-
 ```
